@@ -1,0 +1,78 @@
+html {
+  box-sizing: border-box;
+}
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
+:root {
+  --main-text-cl: #48555b;
+  --secondary-text-cl: #ffffff;
+  --accent-cl: #00a4e5;
+  --bg-cl: #171819;
+}
+
+body {
+  color: var(--main-text-cl);
+  background-color: var(--secondary-text-cl);
+
+  font-family: "Open Sans", sans-serif;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+.container {
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 15px;
+  padding-right: 15px;
+  width: 940px;
+  /* outline: 2px solid tomato; */
+}
+
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  border: 0;
+  padding: 0;
+
+  white-space: nowrap;
+  clip-path: inset(100%);
+  clip: rect(0 0 0 0);
+  overflow: hidden;
+}
+
+.list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.page-tittle {
+  font-family: "Bebas Neue", cursive;
+}
+
+.hero {
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 41;
+  padding-bottom: 71;
+  text-align: center;
+
+  background-image: url(../img/pictures/hero-bg.jpg);
+
+  background-color: var(--bg-cl);
+  background-position: center;
+
+  max-width: 1438px;
+  height: 769px;
+  /* outline: 1px solid black; */
+}
