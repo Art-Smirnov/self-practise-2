@@ -4,6 +4,62 @@
     {
       "icon": {
         "paths": [
+          "M37.644 37.654h948.704v948.704h-948.704v-948.704z"
+        ],
+        "attrs": [
+          {}
+        ],
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "grid": 0,
+        "tags": [
+          "fb"
+        ]
+      },
+      "attrs": [
+        {}
+      ],
+      "properties": {
+        "order": 81,
+        "id": 5,
+        "name": "fb",
+        "prevSize": 32
+      },
+      "setIdx": 0,
+      "setId": 9,
+      "iconIdx": 0
+    },
+    {
+      "icon": {
+        "paths": [
+          "M13.904 60.231h948.704v948.704h-948.704v-948.704z"
+        ],
+        "attrs": [
+          {}
+        ],
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "grid": 0,
+        "tags": [
+          "google"
+        ]
+      },
+      "attrs": [
+        {}
+      ],
+      "properties": {
+        "order": 80,
+        "id": 4,
+        "name": "google",
+        "prevSize": 32
+      },
+      "setIdx": 0,
+      "setId": 9,
+      "iconIdx": 1
+    },
+    {
+      "icon": {
+        "paths": [
           "M0 0h896v1024h-896v-1024z"
         ],
         "attrs": [
@@ -21,14 +77,14 @@
         {}
       ],
       "properties": {
-        "order": 72,
-        "id": 2,
+        "order": 79,
+        "id": 3,
         "name": "svg-1",
         "prevSize": 32
       },
       "setIdx": 0,
       "setId": 9,
-      "iconIdx": 0
+      "iconIdx": 2
     },
     {
       "icon": {
@@ -50,14 +106,14 @@
         {}
       ],
       "properties": {
-        "order": 71,
-        "id": 1,
+        "order": 78,
+        "id": 2,
         "name": "svg-2",
         "prevSize": 32
       },
       "setIdx": 0,
       "setId": 9,
-      "iconIdx": 1
+      "iconIdx": 3
     },
     {
       "icon": {
@@ -79,14 +135,42 @@
         {}
       ],
       "properties": {
-        "order": 70,
-        "id": 0,
+        "order": 77,
+        "id": 1,
         "name": "svg-3",
         "prevSize": 32
       },
       "setIdx": 0,
       "setId": 9,
-      "iconIdx": 2
+      "iconIdx": 4
+    },
+    {
+      "icon": {
+        "paths": [
+          "M37.067 60.231h948.704v948.704h-948.704v-948.704z"
+        ],
+        "attrs": [
+          {}
+        ],
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "grid": 0,
+        "tags": [
+          "twitter"
+        ]
+      },
+      "attrs": [
+        {}
+      ],
+      "properties": {
+        "order": 76,
+        "id": 0,
+        "name": "twitter",
+        "prevSize": 32
+      },
+      "setIdx": 0,
+      "setId": 9,
+      "iconIdx": 5
     },
     {
       "icon": {
